@@ -1,6 +1,6 @@
 # "HTML and CSS Project for Beginners"
 
-✅ [Check out YouTube Channel with all of tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+✅ [This project was created from this channel](https://www.youtube.com/DaveGrayTeachesCode).
 
 This repository shares the starter code for the [YouTube Tutorial](https://youtu.be/T5PD8ofhiug). 
 
